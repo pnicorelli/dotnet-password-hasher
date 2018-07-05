@@ -22,7 +22,7 @@ dotnetPasswordHasher.VerifyHashedPassword('CorrectHorseBatteryStaple', hash);
 
 ### Install
 
-`npm install dotnetPasswordHasher`
+`npm install --save dotnet-password-hasher`
 
 ### Test
 
